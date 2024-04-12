@@ -1,6 +1,4 @@
 #!/bin/bash
-# be careful its not working perfectly fine 
-# its better to not use it at all 
 read -p "Dockerhub Username: " DOCKERHUB_NAME
 read -s -p "Dockerhub Password: " DOCKERHUB_PASS
 
